@@ -74,6 +74,7 @@ function uselessWebButton( button, popup ) {
 		['http://secretsfornicotine.com/',                            true,  1],
 		['http://pixelsfighting.com/',                                false, 1],
 		['http://crapo.la/',                                          false, 1],
+                ['http://magic8ball.online/',                                 false, 1],
 		['http://baconsizzling.com/',                                 false, 1],
 		['http://isitwhite.com/',                                     false, 1],
 		['http://noot.space/',                                        false, 1],
